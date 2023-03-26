@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi there, I'm Alejandro 👋<br><br>I'm a Bachelor's student in Computer Science and AI, passionate about Web Development and Machine Learning. Currently, I'm focusing on improving my knowledge in Machine Learning and HTML, CSS, and JavaScript.<br>What I'm currently working on:<br><br>    Improving my understanding of Machine Learning algorithms and techniques.<br>    Practicing my skills in HTML, CSS, and JavaScript by building small projects.<br>    Looking for opportunities to collaborate on Web Development and Machine Learning projects.<br><br>What I can offer:<br><br>    A strong foundation in programming concepts and algorithms.<br>    Experience in developing projects using Python and JavaScript.<br>    A willingness to learn and collaborate with others.<br><br>How to reach me:<br><br>Feel free to connect with me on LinkedIn
+Hi there, I'm Alejandro 👋<br><br>I'm a Bachelor's student in Computer Science and AI, passionate about Web Development and Machine Learning. Currently, I'm focusing on improving my knowledge in Machine Learning and HTML, CSS, and JavaScript.
+
+## What I am currently working on:
+<br>    Improving my understanding of Machine Learning algorithms and techniques.<br>    Practicing my skills in HTML, CSS, and JavaScript by building small projects.<br>    Looking for opportunities to collaborate on Web Development and Machine Learning projects.<br><br>What I can offer:<br><br>    A strong foundation in programming concepts and algorithms.<br>    Experience in developing projects using Python and JavaScript.<br>    A willingness to learn and collaborate with others.<br><br>How to reach me:<br><br>Feel free to connect with me on LinkedIn
 
 
 ## 🌐 Socials:
