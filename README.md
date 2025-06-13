@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Scientist with a passion for web and software development. I earned my Bachelor's degree in Computer Science & AI, and I'm always eager to learn and grow in the tech world.<br><br>Currently, I'm focused on enhancing my Java and web development skills, while also expanding my knowledge in other areas of software engineering. I love building projects that challenge me and help me become a better developer.
+I am a Computer Science & AI graduate from IE University, with an enriching exchange semester at the University of Michigan, passionate about leveraging technology to create innovative solutions. Through projects like Stage 12, I combined UX/UI design with computer science to develop impactful digital experiences. <br><br>At Management Solutions as a Consultant & Software Engineer, I have strengthened my teamwork skills by collaborating with various teams within client companies. Additionally, I have learned Java and the Calypso Software from scratch while pursuing a Master's in Consulting, where I explored topics such as economics and new technologies. Eager to keep growing, I thrive in environments that value innovation and continuous learning.
 
 
 ## 🌐 Socials:
